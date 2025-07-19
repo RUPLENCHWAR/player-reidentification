@@ -9,3 +9,5 @@ This system provides player tracking and re-identification for sports footage, m
 - OpenCV
 - Ultralytics YOLOv5
 
+## how to run 
+-python main.py
